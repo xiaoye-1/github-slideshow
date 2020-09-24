@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>格式化文本信息</title>
+
+    <style>
+
+        h1{
+            text-align: center;
+            }
+        h4{
+            text-align: left;
+        }
+        h6{
+            text-align: right;
+        }
+        .one{
+            text-indent: 20px;
+            color: blue;
+            
+        }
+
+
+    </style>
+
+</head>
+<body>
+    
+    <div>【1.标题字应用】</div>
+    <h1>软件工程是全国就业薪酬涨幅最大的专业</h1>
+    <h4>软件工程是全国就业薪酬涨幅最大的专业</h4>
+    <h6>软件工程是全国就业薪酬涨幅最大的专业</h6>
+    <hr color="red" size="3px"> 
+    <div>【2.段落、字体标记应用】</div>
+    <p> </p>
+    <font face="隶书" size="4" color="blue">&nbsp;&nbsp;&nbsp;&nbsp;网页的本质就是超级文本标记语言，通过结合使用其他的Web技术（如：脚本语言、公共网关接口、组件等），可以创造出功能强大的网页。</font>
+    <div>【3.文本标记应用】</div>
+
+
+</body>
+</html>
